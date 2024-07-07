@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=InvalidCategoryException
+comment1.params=mensagem
+comment1.target=InvalidCategoryException(java.lang.String)
+numComments=2

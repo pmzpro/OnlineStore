@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=InvalidEmailException
+comment1.params=mensagem
+comment1.target=InvalidEmailException(java.lang.String)
+numComments=2

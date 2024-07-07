@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=InvalidQuantityException
+comment1.params=mensagem
+comment1.target=InvalidQuantityException(java.lang.String)
+numComments=2

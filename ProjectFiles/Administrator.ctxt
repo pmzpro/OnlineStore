@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Administrator
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Administrador\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=email\ password\ isGlobalAdmin
+comment1.target=Administrator(java.lang.String,\ java.lang.String,\ boolean)
+comment2.params=
+comment2.target=boolean\ isGlobalAdmin()
+comment3.params=admin
+comment3.target=void\ setGlobalAdmin(boolean)
+comment4.params=
+comment4.target=void\ showMenu()
+numComments=5
