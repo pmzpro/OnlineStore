@@ -1,4 +1,5 @@
 # OnlineStore
+![OnlineStore](https://github.com/pmzpro/OnlineStore/assets/142250942/24d3f3b0-7985-494c-bf03-ae687d52c966)
 
 ## Introduction
 
